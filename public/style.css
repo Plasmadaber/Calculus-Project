@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+#graphCanvas{
+    outline: black solid 2px;
+}
+
+.canvas-container {
+    display: block;
+    margin: 0 auto;
+}
+
+#controls {
+    width: 800px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+#rectSlider {
+    vertical-align: middle;
+}
+
+label, span {
+    vertical-align: middle;
+}
