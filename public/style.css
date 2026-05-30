@@ -3,9 +3,6 @@ h1 {
     font-size: 24px;
 }
 
-#graphCanvas{
-    outline: black solid 2px;
-}
 
 .canvas-container {
     display: block;
